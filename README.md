@@ -16,8 +16,8 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - Tested Python code and explored basic PyTorch operations.
 
 **Files**
-- `Notebook1_Introduction_to_PyTorch.ipynb` 
-- `TP_Introduction_to_PyTorch.ipynb`
+- `Notebook1_e20230912.ipynb` 
+- `TP_e20230912_Introduction_to_PyTorch.ipynb`
 
 ### Week 2: TBU
 
