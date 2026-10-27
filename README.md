@@ -19,7 +19,7 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - `Notebook1_e20230912.ipynb` 
 - `TP_e20230912_Introduction_to_PyTorch.ipynb`
 
-### Week 2: TBU
+### Week 2: TBD
 
 **Topics and Activities**
 - TBD
