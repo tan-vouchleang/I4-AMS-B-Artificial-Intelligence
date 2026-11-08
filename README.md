@@ -19,13 +19,23 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - `Notebook1_e20230912.ipynb` 
 - `TP_e20230912_Introduction_to_PyTorch.ipynb`
 
-### Week 2: TBD
+### Week 2: Deep Neural Networks
 
 **Topics and Activities**
-- TBD
+- Studied the structure of deep neural networks and their basic components.
+- Practiced parameter initialization, including weights and biases.
+- Implemented forward propagation and activation functions (ReLU and Sigmoid).
+- Learned how to calculate the cost and perform backward propagation.
+- Practiced gradient descent to update model parameters.
+- Built and trained neural networks from scratch using Python and PyTorch.
+- Applied deep learning to classify handwritten MNIST digits into odd and even categories.
+- Experimented with different network architectures, initialization scales, and learning rates.
+- Evaluated model performance using training, development, and test datasets.
+- Performed error analysis to understand model predictions and misclassifications.
 
 **Files**
-- TBD
+- TP2_DeepNN_Step_by_Step_Class_activity.ipynb
+- TP2_TAN-Vouchleang_e20230912_I4_AMSB.ipynb
 
 ### Week 3: TBU
 
