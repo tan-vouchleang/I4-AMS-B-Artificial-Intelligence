@@ -37,13 +37,23 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - TP2_DeepNN_Step_by_Step_Class_activity.ipynb
 - TP2_TAN-Vouchleang_e20230912_I4_AMSB.ipynb
 
-### Week 3: TBU
+### Week 3: Initialization and Regualization
 
 **Topics and Activities**
-- TBD
+- Studies different neural network initialization methods, including Zero, Random, and He initialization.
+- Explored the problems of symmetry, vanishing gradients, and exploding gradients.
+- Practicing initializing neural network weights and biases using PyTorch (nn.init).
+- Learned regularization techniques to reduce overfitting, including L2 regularization and Dropout.
+- Implement L2 regularization and Dropout from scratch using Python and PyTorch.
+- Explored PyTorch's weight_decay and nn.Dropout for regularizing neural networks.
+- Built and trained neural networks for binary classification using the Moons dataset.
+- Implemented and compared the Tanh activation function with PyTorch's built-in function.
+- Applied multi-class classification to a three-class Spiral dataset.
+- Compared models with and without regularization using training accuracy, test accuracy, and decision boundaries.
+- Practiced evaluating model generalization and selecting hyperparameters using validation data.
 
 **Files**
-- TBD
+- TP3_Initialization_Regularization.ipynb
 
 ### Week 4: TBU
 
