@@ -55,7 +55,7 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 **Files**
 - TP3_Initialization_Regularization.ipynb
 
-### Week 4: TBU
+### Week 4: TBD
 
 **Topics and Activities**
 - TBD
