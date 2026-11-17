@@ -63,7 +63,7 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 **Files**
 - TBD
 
-### Week 5: TBU
+### Week 5: TBD
 
 **Topics and Activities**
 - TBD
@@ -71,3 +71,10 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 **Files**
 - TBD
 
+### Week 6: TBD
+
+**Topics and Activities**
+- TBD
+
+**Files**
+- TBD
