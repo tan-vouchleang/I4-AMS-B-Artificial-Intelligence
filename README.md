@@ -34,8 +34,8 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - Performed error analysis to understand model predictions and misclassifications.
 
 **Files**
-- TP2_DeepNN_Step_by_Step_Class_activity.ipynb
-- TP2_TAN-Vouchleang_e20230912_I4_AMSB.ipynb
+- `TP2_DeepNN_Step_by_Step_Class_activity.ipynb`
+- `TP2_TAN-Vouchleang_e20230912_I4_AMSB.ipynb`
 
 ### Week 3: Initialization and Regualization
 
@@ -53,15 +53,23 @@ This repository contains my coursework for the I4-AMS-B: Artificial Intelligence
 - Practiced evaluating model generalization and selecting hyperparameters using validation data.
 
 **Files**
-- TP3_Initialization_Regularization.ipynb
+- `TP3_Initialization_Regularization.ipynb`
 
-### Week 4: TBD
+### Week 4: Training Optimization and Hyperparameter Tuning
 
 **Topics and Activities**
-- TBD
+- Studied SGD, mini-batch training, momentum, and Nesterov momentum.
+- Experimented with different learning rates and batch sizes.
+- Compared optimizers, including SGD, RMSprop, and Adam.
+- Explored learning rate scheduling and Batch Normalization.
+- Compared models with and without Batch Normalization.
+- Selected optimal hyperparameters based on validation performance.
+- Trained and evaluated neural networks using MNIST and CIFAR-10 datasets.
+- Analyzed model accuracy and generalization performance.
+
 
 **Files**
-- TBD
+- `TP4_Optimization.ipynb`
 
 ### Week 5: TBD
 
